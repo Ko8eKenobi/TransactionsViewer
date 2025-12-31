@@ -13,7 +13,7 @@ The project focuses on clean data parsing, separation of concerns, and a maintai
 
 ## Screenshots
 <img src="Screenshots/transactionsList.png" width="300">
-<img src="Screenshots/transactionDetails.png" width="300">
+<img src="Screenshots/transactionsDetails.png" width="300">
 
 ## Architecture
 The app follows a modular UIKit architecture with explicit separation between:
