@@ -12,8 +12,19 @@ The project focuses on clean data parsing, separation of concerns, and a maintai
 - Unit tests for core business logic
 
 ## Screenshots
-<img src="Screenshots/transactionsList.png" width="300">
-<img src="Screenshots/transactionsDetails.png" width="300">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/transactionsList.png" width="300"><br>
+      <b>Transactions list</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/transactionsDetails.png" width="300"><br>
+      <b>Transaction details</b>
+    </td>
+  </tr>
+</table>
 
 ## Architecture
 The app follows a modular UIKit architecture with explicit separation between:
