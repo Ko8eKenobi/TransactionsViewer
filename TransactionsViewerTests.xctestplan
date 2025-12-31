@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "CD2190DA-81D6-4279-9944-7FB80BF5931C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TransactionsViewer.xcodeproj",
+        "identifier" : "92D94ACB2E97A94D008AD7D6",
+        "name" : "TransactionsViewerTests"
+      }
+    }
+  ],
+  "version" : 1
+}
